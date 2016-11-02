@@ -1,5 +1,5 @@
 print("hello")
-print("world\r\n")
+print("world Windows Sux!\r\n")
 
 
 # Grant Yetter is the greatest
