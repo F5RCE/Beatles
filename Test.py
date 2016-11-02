@@ -7,3 +7,6 @@ print("world\r\n")
 
 # If you look in my closet there's a shirt
 
+# What can you do but just keep trying.
+
+
